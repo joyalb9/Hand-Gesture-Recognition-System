@@ -1,4 +1,5 @@
-Hand Gesture Recognition
+**Hand Gesture Recognition**
+
 This project demonstrates a basic hand gesture recognition system using OpenCV and MediaPipe. The system captures video from your webcam, detects hand landmarks, and recognizes simple gestures like "Open Hand" and "Pointing Up."
 
 Requirements
